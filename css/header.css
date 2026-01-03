@@ -1,0 +1,21 @@
+.Artical{
+    border: 20px;color:black cornflowerblue;
+    background-color: lightpink;
+    margin:20px solid;
+    padding: 30px ;
+    width: 500px;
+    box-shadow: 20px 20 5px gray;
+}
+.image{
+    height: 500px;
+    background-color: burlywood;
+    background-image: url('Screenshot\ 2025-12-24\ 231024.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background-image: url('..c:\project\My.first.website\images\2026.jpg'); */
+
+
+
+
+}

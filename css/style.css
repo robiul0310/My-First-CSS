@@ -1,0 +1,19 @@
+.blog{
+    background-color:navajowhite;
+}
+#xxx{
+    background-color:gold;
+}
+.yy{
+    background-color: darkgoldenrod;
+}
+#sit{
+    color: blueviolet;
+}
+#zz{
+    background: color 20px; 
+    /* display:inline; */
+    /* visibility:hidden ; */
+    border:20px;
+
+}
